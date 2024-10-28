@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"@tanstack/config": "^0.13.4"
+	}
+}
