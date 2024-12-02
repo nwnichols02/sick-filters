@@ -64,8 +64,8 @@ importers:
         specifier: ^0.4.16
         version: 0.4.16(eslint@9.14.0)
       globals:
-        specifier: ^15.12.0
-        version: 15.12.0
+        specifier: ^15.13.0
+        version: 15.13.0
       jsdom:
         specifier: ^25.0.1
         version: 25.0.1
@@ -1501,8 +1501,8 @@ packages:
     resolution: {integrity: sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==}
     engines: {node: '>=18'}
 
-  globals@15.12.0:
-    resolution: {integrity: sha512-1+gLErljJFhbOVyaetcwJiJ4+eLe45S2E7P5UiZ9xGfeq3ATQf5DOv9G7MH3gGbKQLkzmNh2DxfZwLdw+j6oTQ==}
+  globals@15.13.0:
+    resolution: {integrity: sha512-49TewVEz0UxZjr1WYYsWpPrhyC/B/pA8Bq0fUmet2n+eR7yn0IvNzNaoBwnK6mdkzcN+se7Ez9zUgULTz2QH4g==}
     engines: {node: '>=18'}
 
   globrex@0.1.2:
@@ -3193,7 +3193,7 @@ snapshots:
       esbuild-register: 3.6.0(esbuild@0.21.5)
       eslint-plugin-import-x: 4.4.0(eslint@9.14.0)(typescript@5.6.3)
       eslint-plugin-n: 17.12.0(eslint@9.14.0)
-      globals: 15.12.0
+      globals: 15.13.0
       interpret: 3.1.1
       jsonfile: 6.1.0
       liftoff: 5.0.0
@@ -3853,7 +3853,7 @@ snapshots:
       eslint: 9.14.0
       eslint-plugin-es-x: 7.8.0(eslint@9.14.0)
       get-tsconfig: 4.8.1
-      globals: 15.12.0
+      globals: 15.13.0
       ignore: 5.3.2
       minimatch: 9.0.5
       semver: 7.6.3
@@ -4079,7 +4079,7 @@ snapshots:
 
   globals@14.0.0: {}
 
-  globals@15.12.0: {}
+  globals@15.13.0: {}
 
   globrex@0.1.2: {}
 
