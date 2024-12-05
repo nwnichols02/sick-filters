@@ -32,7 +32,7 @@
     "@emotion/styled": "^11.13.5",
     "@fontsource/roboto": "^5.1.0",
     "@mui/icons-material": "^6.1.9",
-    "@mui/material": "^6.1.9",
+    "@mui/material": "^6.1.10",
     "lucide-react": "^0.466.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
