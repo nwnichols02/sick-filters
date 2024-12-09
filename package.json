@@ -34,15 +34,15 @@
     "@mui/icons-material": "^6.1.10",
     "@mui/material": "^6.1.10",
     "lucide-react": "^0.468.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.16.0",
     "@tanstack/config": "^0.14.2",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.1.0",
-    "@types/react": "^18.3.13",
+    "@types/react": "^19.0.1",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react-swc": "^3.7.2",
     "eslint": "^9.13.0",
