@@ -70,8 +70,8 @@ importers:
         specifier: ^26.0.0
         version: 26.0.0
       publint:
-        specifier: ^0.3.3
-        version: 0.3.3
+        specifier: ^0.3.4
+        version: 0.3.4
       typescript:
         specifier: ~5.7.3
         version: 5.7.3
@@ -1953,8 +1953,8 @@ packages:
   prop-types@15.8.1:
     resolution: {integrity: sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==}
 
-  publint@0.3.3:
-    resolution: {integrity: sha512-ybYsZ0sUJWpb+Fn5fp6XFsWF81z73ZRgKV72s7PrxDvrtVMUmMfUl3aiyKv50oz96lCMrwA8hgyJLzavqYu+Bg==}
+  publint@0.3.4:
+    resolution: {integrity: sha512-szQCgQXxLgrI2P+3Znv/KUiglp3YA+A2MeI+9Izjs01Ol5KXKCkdbmz69bM/ivPKMYKHhtKOKkib9VJ6JL3H/w==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -4388,7 +4388,7 @@ snapshots:
       object-assign: 4.1.1
       react-is: 16.13.1
 
-  publint@0.3.3:
+  publint@0.3.4:
     dependencies:
       '@publint/pack': 0.1.1
       package-manager-detector: 0.2.9
