@@ -34,8 +34,8 @@ importers:
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@eslint/js':
-        specifier: ^9.20.0
-        version: 9.20.0
+        specifier: ^9.21.0
+        version: 9.21.0
       '@tanstack/config':
         specifier: ^0.16.2
         version: 0.16.2(@types/node@22.13.1)(esbuild@0.24.2)(eslint@9.14.0)(rollup@4.34.8)(typescript@5.7.3)(vite@6.1.1(@types/node@22.13.1)(yaml@2.7.0))
@@ -413,8 +413,8 @@ packages:
     resolution: {integrity: sha512-pFoEtFWCPyDOl+C6Ift+wC7Ro89otjigCf5vcuWqWgqNSQbRrpjSvdeE6ofLz4dHmyxD5f7gIdGT4+p36L6Twg==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@eslint/js@9.20.0':
-    resolution: {integrity: sha512-iZA07H9io9Wn836aVTytRaNqh00Sad+EamwOVJT12GTLw1VGMFV/4JaME+JjLtr9fiGaoWgYnS54wrfWsSs4oQ==}
+  '@eslint/js@9.21.0':
+    resolution: {integrity: sha512-BqStZ3HX8Yz6LvsF5ByXYrtigrV5AXADWLAGc7PH/1SxOb7/FIYYMszZZWiUou/GB9P2lXWk2SV4d+Z8h0nknw==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
   '@eslint/object-schema@2.1.4':
@@ -2754,7 +2754,7 @@ snapshots:
 
   '@eslint/js@9.14.0': {}
 
-  '@eslint/js@9.20.0': {}
+  '@eslint/js@9.21.0': {}
 
   '@eslint/object-schema@2.1.4': {}
 
@@ -3116,7 +3116,7 @@ snapshots:
   '@tanstack/config@0.16.2(@types/node@22.13.1)(esbuild@0.24.2)(eslint@9.14.0)(rollup@4.34.8)(typescript@5.7.3)(vite@6.1.1(@types/node@22.13.1)(yaml@2.7.0))':
     dependencies:
       '@commitlint/parse': 19.5.0
-      '@eslint/js': 9.20.0
+      '@eslint/js': 9.21.0
       '@stylistic/eslint-plugin-js': 3.1.0(eslint@9.14.0)
       commander: 13.1.0
       esbuild-register: 3.6.0(esbuild@0.24.2)
