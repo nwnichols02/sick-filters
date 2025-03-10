@@ -38,7 +38,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.21.0",
+    "@eslint/js": "^9.22.0",
     "@tanstack/config": "^0.17.1",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
