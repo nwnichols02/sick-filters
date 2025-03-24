@@ -34,8 +34,8 @@ importers:
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@eslint/js':
-        specifier: ^9.22.0
-        version: 9.22.0
+        specifier: ^9.23.0
+        version: 9.23.0
       '@tanstack/config':
         specifier: ^0.17.1
         version: 0.17.1(@types/node@22.13.9)(eslint@9.14.0)(rollup@4.35.0)(typescript@5.8.2)(vite@6.2.2(@types/node@22.13.9)(yaml@2.7.0))
@@ -419,8 +419,8 @@ packages:
     resolution: {integrity: sha512-pFoEtFWCPyDOl+C6Ift+wC7Ro89otjigCf5vcuWqWgqNSQbRrpjSvdeE6ofLz4dHmyxD5f7gIdGT4+p36L6Twg==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@eslint/js@9.22.0':
-    resolution: {integrity: sha512-vLFajx9o8d1/oL2ZkpMYbkLv8nDB6yaIwFNt7nI4+I80U/z03SxmfOMsLbvWr3p7C+Wnoh//aOu2pQW8cS0HCQ==}
+  '@eslint/js@9.23.0':
+    resolution: {integrity: sha512-35MJ8vCPU0ZMxo7zfev2pypqTwWTofFZO6m4KAtdoFhRpLJUpHTZZ+KB3C7Hb1d7bULYwO4lJXGCi5Se+8OMbw==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
   '@eslint/object-schema@2.1.4':
@@ -2641,7 +2641,7 @@ snapshots:
 
   '@eslint/js@9.14.0': {}
 
-  '@eslint/js@9.22.0': {}
+  '@eslint/js@9.23.0': {}
 
   '@eslint/object-schema@2.1.4': {}
 
@@ -3016,7 +3016,7 @@ snapshots:
 
   '@tanstack/eslint-config@0.1.0(eslint@9.14.0)(typescript@5.8.2)':
     dependencies:
-      '@eslint/js': 9.22.0
+      '@eslint/js': 9.23.0
       '@stylistic/eslint-plugin-js': 4.2.0(eslint@9.14.0)
       eslint-plugin-import-x: 4.6.1(eslint@9.14.0)(typescript@5.8.2)
       eslint-plugin-n: 17.16.1(eslint@9.14.0)(typescript@5.8.2)
