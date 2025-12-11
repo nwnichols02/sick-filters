@@ -33,7 +33,7 @@
     "@fontsource/roboto": "^5.2.9",
     "@mui/icons-material": "^7.3.6",
     "@mui/material": "^7.3.6",
-    "lucide-react": "^0.556.0",
+    "lucide-react": "^0.560.0",
     "react": "^19.2.1",
     "react-dom": "^19.2.1"
   },
